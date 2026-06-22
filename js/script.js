@@ -1,1 +1,1 @@
-console.log("QUANTON INDIA");
+console.log("QUANTON INDIA LOADED");
